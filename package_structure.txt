@@ -1,0 +1,50 @@
+ Volume in drive C has no label.
+ Volume Serial Number is 2A59-34B5
+
+ Directory of C:\Users\trasb\Documents\Visual Studio 2015\Projects\FoodOrder\packages
+
+2016/09/11  12:18 PM    <DIR>          .
+2016/09/11  12:18 PM    <DIR>          ..
+2016/09/10  12:34 AM    <DIR>          Antlr.3.5.0.2
+2016/09/10  12:34 AM    <DIR>          bootstrap.3.3.7
+2016/09/09  06:05 PM    <DIR>          EntityFramework.6.1.3
+2016/09/10  12:34 AM    <DIR>          jQuery.3.1.0
+2016/09/10  08:16 AM    <DIR>          jquery.datatables.1.10.12
+2016/09/10  12:34 AM    <DIR>          jQuery.Validation.1.15.1
+2016/09/09  06:06 PM    <DIR>          Microsoft.ApplicationInsights.2.1.0
+2016/09/10  12:34 AM    <DIR>          Microsoft.ApplicationInsights.Agent.Intercept.2.0.1
+2016/09/09  06:06 PM    <DIR>          Microsoft.ApplicationInsights.DependencyCollector.2.1.0
+2016/09/09  06:06 PM    <DIR>          Microsoft.ApplicationInsights.JavaScript.0.22.19-build00125
+2016/09/09  06:06 PM    <DIR>          Microsoft.ApplicationInsights.PerfCounterCollector.2.1.0
+2016/09/09  06:06 PM    <DIR>          Microsoft.ApplicationInsights.Web.2.1.0
+2016/09/09  06:06 PM    <DIR>          Microsoft.ApplicationInsights.WindowsServer.2.1.0
+2016/09/09  06:06 PM    <DIR>          Microsoft.ApplicationInsights.WindowsServer.TelemetryChannel.2.1.0
+2016/09/09  06:05 PM    <DIR>          Microsoft.AspNet.Identity.Core.2.2.1
+2016/09/09  06:05 PM    <DIR>          Microsoft.AspNet.Identity.EntityFramework.2.2.1
+2016/09/09  06:05 PM    <DIR>          Microsoft.AspNet.Identity.Owin.2.2.1
+2016/09/09  06:05 PM    <DIR>          Microsoft.AspNet.Mvc.5.2.3
+2016/09/09  06:05 PM    <DIR>          Microsoft.AspNet.Razor.3.2.3
+2016/09/09  06:05 PM    <DIR>          Microsoft.AspNet.Web.Optimization.1.1.3
+2016/09/09  06:05 PM    <DIR>          Microsoft.AspNet.WebPages.3.2.3
+2016/09/10  12:34 AM    <DIR>          Microsoft.CodeDom.Providers.DotNetCompilerPlatform.1.0.1
+2016/09/09  06:05 PM    <DIR>          Microsoft.jQuery.Unobtrusive.Validation.3.2.3
+2016/09/10  12:34 AM    <DIR>          Microsoft.Net.Compilers.1.3.2
+2016/09/09  06:05 PM    <DIR>          Microsoft.Owin.3.0.1
+2016/09/09  06:05 PM    <DIR>          Microsoft.Owin.Host.SystemWeb.3.0.1
+2016/09/09  06:05 PM    <DIR>          Microsoft.Owin.Security.3.0.1
+2016/09/09  06:05 PM    <DIR>          Microsoft.Owin.Security.Cookies.3.0.1
+2016/09/09  06:05 PM    <DIR>          Microsoft.Owin.Security.Facebook.3.0.1
+2016/09/09  06:05 PM    <DIR>          Microsoft.Owin.Security.Google.3.0.1
+2016/09/09  06:05 PM    <DIR>          Microsoft.Owin.Security.MicrosoftAccount.3.0.1
+2016/09/09  06:05 PM    <DIR>          Microsoft.Owin.Security.OAuth.3.0.1
+2016/09/09  06:05 PM    <DIR>          Microsoft.Owin.Security.Twitter.3.0.1
+2016/09/09  06:05 PM    <DIR>          Microsoft.Web.Infrastructure.1.0.0.0
+2016/09/10  12:34 AM    <DIR>          Modernizr.2.8.3
+2016/09/10  11:16 AM    <DIR>          MySql.Data.6.9.9
+2016/09/11  12:18 PM    <DIR>          MySql.Data.Entity.6.9.9
+2016/09/10  12:34 AM    <DIR>          Newtonsoft.Json.9.0.1
+2016/09/09  06:05 PM    <DIR>          Owin.1.0
+2016/09/10  12:34 AM    <DIR>          Respond.1.4.2
+2016/09/10  12:34 AM    <DIR>          WebGrease.1.6.0
+               0 File(s)              0 bytes
+              43 Dir(s)  664ÿ753ÿ614ÿ848 bytes free
